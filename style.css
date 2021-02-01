@@ -13,13 +13,13 @@ h1 {color:#5B3256;
 .question{
     color: white;
     text-align: center;
-    
+
     font: weight 400px;
 
 }
 
-.answer{ 
-    color: pink;
+.answer{
+    color: purple;
 
 }
 
@@ -39,8 +39,12 @@ h1 {color:#5B3256;
 .w-20{
     width: 250px;
 
+}
 
+.margin-top{
+  margin-top: 10px;
+}
 
-
-
+.answer{
+  display: none;
 }
